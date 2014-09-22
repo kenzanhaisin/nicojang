@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="nicojang.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="omokaru" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="onryo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="otocheckboxbool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="burauza" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="zensetteipath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="zensettei" Type="System.String" Scope="User">
+      <Value Profile="(Default)">にこ</Value>
+    </Setting>
+    <Setting Name="h184" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="publickye" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;RSAKeyValue&gt;&lt;Modulus&gt;wl1z598Q65N1aOPnbF540l4In9wM3shVMIrfimcAM5gdCrawvaI4lPdlB+z9BR5p51/o0qitCAEO6vy2mvMV9GHXjXohIwfVlosZGtI8Kv9t5wMWyl3F4aQ7j2KHewetMXYyXgfnoh3VPLz+MU+Iu7rh/Pf+2IUOkq99oUpMEFM=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;/RSAKeyValue&gt;</Value>
+    </Setting>
+    <Setting Name="privateKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;RSAKeyValue&gt;&lt;Modulus&gt;wl1z598Q65N1aOPnbF540l4In9wM3shVMIrfimcAM5gdCrawvaI4lPdlB+z9BR5p51/o0qitCAEO6vy2mvMV9GHXjXohIwfVlosZGtI8Kv9t5wMWyl3F4aQ7j2KHewetMXYyXgfnoh3VPLz+MU+Iu7rh/Pf+2IUOkq99oUpMEFM=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;P&gt;4d9VGc0D9rAen6VExav0+csgeZorjraQqjiwXJlXZAe/G1JkJvKw8uXc7f5EyZlslyRgiZjw5cq0xEGuah5zRQ==&lt;/P&gt;&lt;Q&gt;3EpEPzdfvc13cu/+tcGbCKJSq0PmYWgfrP9EbvANN2Il83aaUu+03eWEzJuPEM6Xk691/HnfyfJa2M9SwZ6itw==&lt;/Q&gt;&lt;DP&gt;Ne8fIf8LYD9jwJk1F8Jcx7zSL1c56WT8nDjXG/VdobwbzQlactZmnEl4/LdHc6AYBusfxhtoAmbpzScl358PxQ==&lt;/DP&gt;&lt;DQ&gt;EzTecmyPimrpqTnHiW1R6RTOBGStJ3z+lgTDoLCJVnTWPj3vAqAnstkaFQTTGnIIwTWhIdw2aNManKCm5H7CTQ==&lt;/DQ&gt;&lt;InverseQ&gt;tELHyci/Sy2KLKCDUDhFECELIt5TRVRW792Rmo8Y6BqNgGjnaKpDQIZ8sdpcQpMHz/SRLaHSFnEOaZ/GQW7HUQ==&lt;/InverseQ&gt;&lt;D&gt;dX/PaPZmITQEv4M/TTkTa4FjT1jVAv0y2uSpXN8FtSsZK3fkAtAFyrCAiDkRgL2xIinN80P7TqJtJUvfDG817nha2gIGgfdddPNmKJEW14Vpd6J4wa2wbFJ1gkgTlPSf/plpj1Wo/ppIAflBOWpse+v/Ueh+2wFvhIBn4Kh4oQk=&lt;/D&gt;&lt;/RSAKeyValue&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
